@@ -8,6 +8,25 @@ var d = '36';
 
 var e = "42";
 
-var final = a + b + c + d + e;
+var addition = a + b + c + d + e;
 
-console.log(final)
+console.log(addition)
+
+//2nd adv//
+
+var f = '1';
+
+var g = 15;
+
+var h = 8;
+
+var i = "1";
+
+var multiplication = f * g * h * i;
+
+console.log(multiplication);
+
+var division = addition / multiplication;
+document.write(division);
+
+//3td adv//
